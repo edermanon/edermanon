@@ -21,4 +21,4 @@
   <a href = "mailto:ederctba09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![computador-imagem-animada-0192](https://github.com/edermanon/edermanon/assets/146383726/ffd6e98d-7e39-4dca-9bed-5815145192b9)
+
